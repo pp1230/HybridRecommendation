@@ -20,7 +20,7 @@ eg.
 $ java -jar -Xmx10g Scala2.jar --root_path DataDirectory/ 
 --coda_result socialUR20CaGroup200.txt
 
-Here is the param list and introduction:
+Here is the params list and introduction:
   
   --root_path
   
@@ -54,7 +54,7 @@ Here is the param list and introduction:
   --social_type
   
   If you want to choose the community detection algorithms, please set this param to "--social_type coda" or "--social_type cnm". The de
-  fault algorithm is coda.
+ fault algorithm is coda.
   
   --cnm_result
   
