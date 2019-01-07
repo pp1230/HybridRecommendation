@@ -1,0 +1,77 @@
+$ java -jar -Xmx10g Scala2.jar --root_path DataDirectory/ 
+--coda_result socialUR20CaGroup200.txt
+
+(Word2vec number:,10)
+2. Start generateWordFeature...
+2. GenerateWordFeature Finish!
+3. Start userItemFeature...
+3. UserItemFeature Finish!
+4. Start trainingUserModel...
+TrainingNum:734551
+4. Training ClusterModel Finish!
+5.2 Start coda prediction...
+Test Data Count:182911
+Social Test Count: 164916
+RMSE:1.137603056384819
+MAE:0.9114075973922608
+5.3 Prediction coda finish!
+
+(Word2vec number:,20)
+2. Start generateWordFeature...
+2. GenerateWordFeature Finish!
+3. Start userItemFeature...
+3. UserItemFeature Finish!
+4. Start trainingUserModel...
+TrainingNum:734551
+4. Training ClusterModel Finish!
+5.2 Start coda prediction...
+Test Data Count:182911
+Social Test Count: 164916
+RMSE:1.114609393582271
+MAE:0.8889820684419881
+5.3 Prediction coda finish!
+
+(Word2vec number:,30)
+2. Start generateWordFeature...
+2. GenerateWordFeature Finish!
+3. Start userItemFeature...
+3. UserItemFeature Finish!
+4. Start trainingUserModel...
+TrainingNum:734551
+4. Training ClusterModel Finish!
+5.2 Start coda prediction...
+Test Data Count:182911
+Social Test Count: 164916
+RMSE:1.1102871458223007
+MAE:0.8848181617279643
+5.3 Prediction coda finish!
+
+(Word2vec number:,40)
+2. Start generateWordFeature...
+2. GenerateWordFeature Finish!
+3. Start userItemFeature...
+3. UserItemFeature Finish!
+4. Start trainingUserModel...
+TrainingNum:734551
+4. Training ClusterModel Finish!
+5.2 Start coda prediction...
+Test Data Count:182911
+Social Test Count: 164916
+RMSE:1.1075687298917603
+MAE:0.8817553115054141
+5.3 Prediction coda finish!
+
+(Word2vec number:,50)
+2. Start generateWordFeature...
+2. GenerateWordFeature Finish!
+3. Start userItemFeature...
+3. UserItemFeature Finish!
+4. Start trainingUserModel...
+TrainingNum:734551
+4. Training ClusterModel Finish!
+5.2 Start coda prediction...
+Test Data Count:182911
+Social Test Count: 164916
+RMSE:1.105778323909842
+MAE:0.8804114397673273
+5.3 Prediction coda finish!
